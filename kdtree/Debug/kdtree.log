@@ -1,0 +1,12 @@
+﻿  源.cpp
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(3): warning C4068: 未知的杂注
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(22): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(30): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(44): warning C4018: “>”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(58): warning C4018: “>”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(143): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(291): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(304): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\kdtree.h(315): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构与算法课设2‘\k-d树\kdtree\kdtree\源.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+  kdtree.vcxproj -> E:\数据结构与算法课设2‘\k-d树\kdtree\Debug\kdtree.exe
